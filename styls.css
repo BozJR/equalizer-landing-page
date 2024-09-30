@@ -211,7 +211,7 @@ footer {
 
     .main__illustration__img-tab {
         display: block;
-        max-height: 556px;
+        height: 556px;
         z-index: 2;
         position: absolute;
         top: -130px;
@@ -246,7 +246,90 @@ footer {
         justify-content: end;
         align-items: center;
     }
+}
 
+@media (min-width: 1440px) {
+    body {
+        background-image: url(/assets/bg-main-desktop.png);
+        background-repeat: no-repeat;
+        background-position: 50% -460%; 
+    }
 
+    .hero {
+        background-image: url(/assets/bg-pattern-1.svg);
+        background-repeat: no-repeat;
+        background-position: 100% -2.4rem;
+        border: 1pz solid red;
+    }
+    
+    .hero__container {
+        margin: 0 10rem 0 10rem ;
+    }
 
+    .hero__container h1 {
+        width: 928px;
+        font-size: 88px;
+        line-height: 100%;
+        letter-spacing: -1px;
+    }
+
+    .hero__text {
+        width: 736px;
+        font-size: 20px;
+        line-height: 150%;
+        letter-spacing: 0%;
+    }
+
+    .main__container {
+        margin: 0 10rem 0 10rem ;
+        height: 600px;
+        background-position: 44% 0%;
+        
+    }
+
+    .main__illustration__img-tab {
+        top: -90px;
+        left: 100px;
+        width: 300px;
+        height: 630px;
+    }
+
+    .main__pricing-card {
+        width: 512px;
+        height: 600px;
+        top: 100px;
+        right: 5rem;
+    
+    }
+
+    footer {
+        border: 1px solid red;
+        margin: 0 10rem 0 10rem ;
+    }
+
+    .footer__content {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .footer__logo {
+        width: 144px;
+        height: 32px;
+    }
+
+    .btn-1-img:hover {
+        filter: invert(100%) sepia(100%) saturate(1000%) hue-rotate(180deg) brightness(100%) contrast(100%);
+    }
+
+    .pricing-card__btn-1:hover {
+        background-color: #66E2DC;
+        color: black;
+    
+    }
+    
+    .pricing-card__btn-2:hover {
+        background-color: #ffb964;
+        color: black;
+    }
+    
 }
