@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bozjr-equalizer-landing-page.netlify.app/](https://bozjr-equalizer-landing-page.netlify.app/)
 
 
 ### Built with
@@ -42,6 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
 
