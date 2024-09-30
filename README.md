@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./completion%20pic/equalizer-landing-page-screenshot.jpeg)
 
 
 ### Links
