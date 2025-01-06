@@ -1,11 +1,10 @@
-# Frontend Mentor - Equalizer landing page solution
+# Equalizer landing page solution
 
-This is my solution to the [Equalizer landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to creating a simple landing page , with some variations in layout and responsiveness. 
 
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -13,8 +12,6 @@ This is my solution to the [Equalizer landing page challenge on Frontend Mentor]
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-
-## Overview
 
 ### The challenge
 
@@ -42,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
